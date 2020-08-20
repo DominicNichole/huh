@@ -1,0 +1,190 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="copyright" content="Copyright by GetMega.Net" />
+<meta name="description" content="GetMega allow user get direct link from Mega.nz, use IDM to download with max speed and resume downloading any time." />
+<meta name="keywords" content="Get direct link Mega.nz, Get Mega.nz, Get link Mega.nz, Download Mega.nz with IDM, Download Mega.nz by IDM, Download Mega.nz use IDM, Download Mega.nz with IDM, How to download mega files with IDM, How to download mega files using IDM, Download Mega file unrestricted speed, MEGA and IDM, Leech link Mega.nz Stream video, Streaming video Mega.nz, Mega direct link" />
+<meta name="robots" content="index/follow" />
+<meta name="DC.title" content="GetMega.Net download Mega.nz's file with IDM" />
+<title>Get direct link from Mega.Nz - GetMega.Net</title>
+<link rel="SHORTCUT ICON" href="images/favicon.png" type="image/x-icon" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400">  <!-- Google web font "Open Sans" -->
+<link rel="stylesheet" href="skin/default/css/bootstrap.min.css"> <!-- Bootstrap style -->
+<link rel="stylesheet" href="skin/default/css/flexslider.css"> <!-- Flexslider style -->
+<link rel="stylesheet" href="skin/default/css/templatemo-style.css"> <!-- Templatemo style -->
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript" src="//inpagepush.com/400/3245754" data-cfasync="false" async="async"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JY1RH5TFW1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JY1RH5TFW1');
+</script>
+
+</head>
+
+<body class="page">
+
+<style>
+.psec_overlay{z-index: 1;overflow: auto;position:fixed;top:0;bottom:0;left:0;right:0;background:rgba(0,0,0,.7);opacity:1;display: none;}.psec_popup{margin:100px auto;padding:20px;background:#fff;border-radius:1px;width:60%;position:relative}.psec_popup h2{background-color:#d9534f;color:#fff;margin-top:0;border-radius:4px;font-family:Tahoma,Arial,sans-serif}.psec_popup .content{max-height:60%;overflow:auto}@media screen and (max-width:700px){.psec_popup{width:70%}}
+</style>
+<div id="psec_popup1" class="psec_overlay">
+	<div class="psec_popup" style="border-radius: 6px;">
+		<center><h2>AdBlocker Detected</h2>
+		<div class="content">
+			<br /><p></p>
+            <p>Please contact with the webmaster of the website if you think something is wrong.</p><br />
+
+			<input type="button" onclick="location.href='mailto:getmega.net@gmail.com';" style="width: 100%; background-color: blue; color: white; font-size: 16px; border-radius: 6px; padding: 6px;" value="Contact" />
+            <br />
+			
+	        <button style="width: 100%; background-color: #008CBA; color: white; font-size: 16px; border-radius: 6px; padding: 10px;" onclick="window.location.reload();">I disabled my AdBlocker. Let me see the website</button>
+		</div></center><br />
+		
+	</div>
+	
+</div>
+
+<script type="text/javascript">
+function adBlockDetected() {
+
+		$('.psec_overlay').css('display','block');
+
+}
+
+if(typeof fuckAdBlock !== "undefined" || typeof FuckAdBlock !== "undefined") {
+	adBlockDetected();
+} else {
+	var importFAB = document.createElement("script");
+	importFAB.onload = function() {
+		fuckAdBlock.onDetected(adBlockDetected)
+	};
+	importFAB.onerror = function() {
+		adBlockDetected(); 
+	};
+	importFAB.integrity = "sha256-xjwKUY/NgkPjZZBOtOxRYtK20GaqTwUCf7WYCJ1z69w=";
+	importFAB.crossOrigin = "anonymous";
+	importFAB.src = "https://cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js";
+	document.head.appendChild(importFAB);
+}
+</script>
+	
+        <div id="preloader">
+            <div id="status">&nbsp;</div>
+        </div><!-- /#preloader -->      
+            
+<!-- load JS files -->
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<script src="skin/default/js/jquery-1.11.3.min.js"></script> <!-- jQuery -->
+<script src="skin/default/js/jquery.flexslider-min.js"></script> <!-- Flex Slider -->
+<script src="skin/default/js/jquery.backstretch.min.js"></script> <!-- Backstretch http://srobbin.com/jquery-plugins/backstretch/ -->
+<script src="skin/default/js/templatemo-script.js"></script> <!-- Templatemo scripts -->
+<script src="skin/default/js/contact.js"></script> <!-- Templatemo scripts -->
+<script type="text/javascript" language="javascript" src="images/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="images/ZeroClipboard.js"></script>
+<script type="text/javascript" src="images/sprintf.js"></script>
+<script type="text/javascript" language="javascript">
+	var loadimg = "loading.gif";
+	var loadcolor = "#0099FF";
+	var title = '[color=blue] download [/color]';
+	var colorname = 'green';
+	var colorfile = 'red';
+	var lang = new Array();
+	lang['sitetile'] = 'Vinaget'; lang['version'] = 'VinaGet 3.3 LTS'; lang['homepage'] = 'vinaget.us'; lang['title'] = '%s - Premium link generator'; lang['login'] = 'Please enter password to login.'; lang['password'] = 'Password'; lang['plugins'] = 'Plugins'; lang['premium'] = 'Premium Accounts'; lang['moreacc'] = 'More accounts >>>'; lang['lessacc'] = '<<< Less accounts'; lang['main'] = 'Main Window'; lang['donate'] = 'Donate Acc'; lang['listfile'] = 'Server Files'; lang['admin'] = 'Admin Panel'; lang['check'] = 'Check Acc'; lang['log'] = 'Log Out'; lang['welcome'] = 'Fast and unlimited premium link generator'; lang['update1'] = 'There\'s an update for vinaget'; lang['update2'] = 'Get new update v%s'; lang['maxline'] = '(max 10 link for one times)'; lang['sbdown'] = 'Download'; lang['dlhere'] = 'Download here:'; lang['donations1'] = 'We are also in need of donations! If you can we would appreciate your offerings.'; lang['donations2'] = 'Donate your Account !'; lang['acctype'] = 'Account Type:'; lang['sbdonate'] = 'Donate Account'; lang['invalid'] = 'Invalid account. Please re-check your data!'; lang['success'] = 'Thanks for donating your account. Your account has been created successfully our database'; lang['dsuccess'] = 'Donate Success!'; lang['getloading'] = 'checking...'; lang['notaccess'] = 'You do not have permission to access this page !'; lang['notice'] = 'Auto delete file after <b>%s</b>. Limit <b>%s</b> file per <b>%s</b> for <b>1</b> IP'; lang['yourip'] = 'Your IP:'; lang['yourjob'] = 'Your jobs:'; lang['youused'] = 'You used'; lang['sizelimit'] = 'File size limit:'; lang['totjob'] = 'Total jobs:'; lang['serverload'] = 'Server load:'; lang['uonline'] = 'Users online:'; lang['ago'] = 'ago'; lang['days'] = 'days'; lang['hours'] = 'hours'; lang['mins'] = 'mins'; lang['sec'] = 'sec'; lang['errorget'] = 'Failed to generate the link. The link has been deleted!'; lang['errordl'] = 'Your link has been generated by another ip address !'; lang['erroracc'] = 'Account/Cookie Error !!!'; lang['svload'] = 'Server load is too high.'; lang['issex'] = '<b><font color=red>is this link sex ??? ==&#9658;</font> <a href=http://www.google.com/search?q=%1$s><font color=#00CC00>%1$s</font></a><br/><font color=#FFCC00>if not please repost %1$s|not3x</b><br/>'; lang['errorlink'] = '==&#9658; Invalid link !'; lang['manyjob'] = 'Too many download jobs.'; lang['countMBIP'] = 'You only can download %s per %s ! Please wait %s'; lang['limitPERIP'] = 'You only can download %s file per %s ! Please wait %s'; lang['limitip'] = 'Too many download jobs for this ip.'; lang['notdl'] = 'Can not get file size.'; lang['cantjob'] = 'Can not create new job'; lang['filebig'] = 'File too big! (%s) when allowed only %s'; lang['notfound'] = 'Not Found!'; lang['del'] = 'Delete'; lang['rname'] = 'Rename'; lang['notfile'] = 'No Files Found'; lang['acdis'] = 'Action Disabled'; lang['ac'] = 'Action'; lang['name'] = 'File Name'; lang['size'] = 'Size'; lang['date'] = 'Date'; lang['original'] = 'Original Link'; lang['clickcheck'] = 'Click here to check link'; lang['total'] = 'Total'; lang['used'] = 'You used'; lang['reset'] = 'Reset'; lang['canl'] = 'Cancel'; lang['deld'] = 'Deleted!'; lang['nname'] = 'New Name'; lang['bname'] = 'You can\'t rename file to blank name!'; lang['rnameto'] = 'renamed to'; lang['unavailable'] = 'Service Unavailable'; lang['disabletrial'] = 'your link is temporary disable for trial account.'; lang['adult'] = 'Adult Video Detected'; lang['ytb_captcha'] = 'Captcha Found. Please run on different server'; lang['ytb_Error'] = 'Error Locating Download URL'; lang['reportpass'] = 'The file you are trying to download is password protected. Please enter the password below.'; lang['accpremium'] = 'Premium Account'; lang['direct'] = 'Direct Link'; lang['checkall'] = 'Check All'; lang['uncheckall'] = 'Un-Check All'; lang['invert'] = 'Invert Selection'; lang['error1'] = '<b><font color=red> %1$s </font></b>'; lang['error2'] = '<b><a href="%2$s" style="text-decoration:none"><font color="red" face="Arial" size="2"><s>%2$s</s></font></a> <img src=images/chk_error.png width="15" alt="errorlink"> <font color=#ffcc33 face=Arial size=2>==&#9658; %1$s</font></b>'; lang['pluginerror'] = '%1$s plugin was error. Contact admin!'; lang['noaccount'] = 'There\'s no %1$s account in database. Contact admin!'; lang['cantconnect'] = 'Our server can\'t connect to %1$s'; lang['accfree'] = 'Our %1$s account is FREE'; lang['accinvalid'] = 'Our %1$s account invalid'; lang['cookieinvalid'] = 'Our %1$s cookie invalid'; lang['blockCountry'] = 'Our Country has been banned by %1$s'; lang['blockIP'] = 'Our IP has been banned by %1$s'; lang['blockAcc'] = 'Our %1$s account has been blocked'; lang['LimitAcc'] = 'Our %1$s account has reach bandwidth limit'; lang['dead'] = 'Link Dead !!!'; lang['again'] = 'please try again'; lang['notwork'] = 'Not Work'; lang['work'] = 'Work'; lang['removed'] = '[REMOVED]'; lang['notremoved'] = '[NOT REMOVE]'; lang['unknown'] = 'unknown'; lang['linkpass'] = 'Link have password!'; lang['wrongpass'] = 'Wrong password!'; lang['notsupport'] = 'Sorry. We do not support your link !'; lang['notsupportacc'] = 'Not support account, use cookie instead'; lang['notsupportpass'] = 'Not support password currently for %1$s'; lang['checkacc'] = 'Check %1$s account'; lang['noplugin'] = 'You don\'t have %s account checker.<br/>Ask someone to make it'; lang['autoreset'] = 'Auto reset'; lang['postcbox'] = 'Auto post cbox'; lang['searchuser'] = 'Auto search user'; lang['debridtype'] = 'Debrid Type:'; </script> 
+<script type="text/javascript" language="javascript" src="ajax.js?ver=1.0"></script> 
+   
+            
+            <!-- background images -->
+            <div class="page-bg-imgs-list">
+                <img src="skin/default/img/story-bg.jpg" id="page-1-img" class="main-img" alt="Main">
+                                <img src="skin/default/img/story-bg.jpg" id="page-3-img" alt="About us">
+                <img src="skin/default/img/story-bg.jpg" id="page-4-img" alt="Contact">                            
+            </div>
+            
+            <div class="container-fluid">
+
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-5 col-xl-4">
+                        
+                        <div class="header">
+
+                            <!-- site title -->
+                            <header class="box site-title">
+                                <a href="./" class="js-site-title">
+                                    <h1 class="box-text site-title-text">GetMega.Net</h1>    
+                                </a>            
+                            </header>
+                            
+                            <!-- site navigation -->
+                            <nav class="js-nav">
+                                <ul class="nav-items-container">
+
+                                    <li data-nav-item-id="page-1" class="block-keep-ratio block-keep-ratio-1-1 block-width-half box box-white box-nav-item js-nav-item pull-xs-left homedownload">
+                                        <a href="#page-1" class="block-keep-ratio-content box-nav-item-link">
+                                            <span class="box-text box-text-nav-item flexbox-center">Download</span>
+                                        </a>
+                                    </li>
+									                                    <li data-nav-item-id="page-3" class="block-keep-ratio block-keep-ratio-1-1 block-width-half box box-white box-nav-item js-nav-item pull-xs-left">
+                                        <a href="#page-3" class="block-keep-ratio-content box-nav-item-link">
+                                            <span class="box-text box-text-nav-item flexbox-center">About us</span>
+                                        </a>
+                                    </li>
+
+                                    <li data-nav-item-id="page-4" class="block-keep-ratio block-keep-ratio-1-1 block-width-half box box-white box-nav-item js-nav-item pull-xs-right">
+                                        <a href="#page-4" class="block-keep-ratio-content box-nav-item-link">
+                                            <span class="box-text box-text-nav-item flexbox-center">Contact</span>
+                                        </a>
+                                    </li>
+
+                                </ul>
+                            </nav>    
+                        </div> <!-- .header -->
+
+                    </div>
+
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-7 col-xl-8">
+                        <div class="content-wrapper js-content-wrapper">
+                            <!-- main -->
+                            <section data-page-id="page-1" class="content js-content">
+                                
+                                <header class="box box-blue margin-b-20">
+                                    <h2 class="box-text page-title-text">Get direct link from Mega.nz 
+																				<div class="fb-like" data-href="https://www.facebook.com/getmega.net/" data-width="40" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
+									</h2>
+                                </header>
+								<!--script ADS-->
+								<script type="text/javascript">
+								  (function() {
+									var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+									po.src = 'https://apis.google.com/js/platform.js';
+									var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+								  })();
+								</script>
+								<div id="fb-root"></div>
+								<script>(function(d, s, id) {
+								  var js, fjs = d.getElementsByTagName(s)[0];
+								  if (d.getElementById(id)) return;
+								  js = d.createElement(s); js.id = id;
+								  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9&appId=425656991149455";
+								  fjs.parentNode.insertBefore(js, fjs);
+								}(document, 'script', 'facebook-jssdk'));</script>
+								<!--script ADS-->
+								<div class="content-text">
+                                	                                        <table id="tb_content"><tbody>
+                                            <tr><td height="5px"></td></tr>
+                                            <tr><td align="center">
+                                                                    <form action="javascript:get(document.getElementById('linkform'));" name="linkform" id="linkform">
+                                                                                                        <textarea id='links' style='width:100%;height:260px;' name='links' onClick="this.select();" ></textarea><BR>
+                                                    <script type="text/javascript">
+                                                    	
+																												var placeholder = 'Input your link here and click Download. \nLink format:\nType 1: https://mega.nz/#!1wUiBQqZ!isXGprskZbLP4KnLNuNHcbI279s6FnLcsj8Vydm_sio\nType 2: https://mega.nz/file/1wUiBQqZ#isXGprskZbLP4KnLNuNHcbI279s6FnLcsj8Vydm_sio\nDelete link after 1 hour. Limit 1 links/1 min/1 IP\nNOTE: We have some update secure rules. If you have any 
